@@ -10,7 +10,7 @@
 	<form action="check.jsp">
 		<img src="randomcode.jpg"/>
 		<input type="text" name="r"/>
-		<input type="submit"/>
+		<input type="submit" vlaue="确定"/>
 	</form>
 </body>
 </html>

@@ -8,6 +8,7 @@
 </head>
 <body>
 	<form action="check.jsp">
+		请输入验证码：
 		<img src="randomcode.jpg"/>
 		<input type="text" name="r"/>
 		<input type="submit" vlaue="确定"/>
